@@ -1,0 +1,30 @@
+<person>
+    <name>Mary</name>
+    <isEmployed>true</isEmployed>
+    <age>26</age>
+    <address>
+        <street>123 Main St</street>
+        <city>Seattle</city>
+        <state>WA</state>
+    </address>
+    <hobbies>
+        <hobby>
+            <name>Hiking</name>
+            <level>Beginner</level>
+        </hobby>
+        <hobby>
+            <name>Cooking</name>
+            <level>Advanced</level>
+        </hobby>
+    </hobbies>
+    <favoriteFoods>
+        <food>
+            <name>Sushi</name>
+            <rating>9.5</rating>
+        </food>
+        <food>
+            <name>Pizza</name>
+            <rating>8.0</rating>
+        </food>
+    </favoriteFoods>
+</person>

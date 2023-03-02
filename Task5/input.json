@@ -1,0 +1,30 @@
+{
+  "name": "Mary",
+  "isEmployed": true,
+  "age" : 26,
+  "address": {
+    "street": "123 Main St",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "hobbies": [
+    {
+      "name": "Hiking",
+      "level": "Beginner"
+    },
+    {
+      "name": "Cooking",
+      "level": "Advanced"
+    }
+  ],
+  "favoriteFoods": [
+    {
+      "name": "Sushi",
+      "rating": 9.5
+    },
+    {
+      "name": "Pizza",
+      "rating": 8.0
+    }
+  ]
+}
